@@ -1,0 +1,43 @@
+body{
+	background-color: #8bacc7;
+	font-family: 'Helvetica', sans-serif;
+}
+.content-login{
+	width: 100%;
+	height: 100vh;
+	
+}
+h1{
+	margin-top: 30px;
+	font-size: 30px;
+}
+.close{
+	position: absolute;
+	top: 5px;
+	right: 15px;
+	font-size: 35px;
+	cursor: pointer;
+	margin-top: 30px;
+	text-decoration: none;
+	color: black;
+}
+
+.close:hover{
+	color:  #ff3f2e;
+	transition: .3s;
+}
+hr{
+	border: none;
+	background: black;	
+	height: 5px;
+}
+p{
+	font-size: 27px;
+	text-align: left;
+}img{
+	width: 800px;
+	height: 440px;
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+}
