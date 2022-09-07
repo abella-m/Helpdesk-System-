@@ -1,2 +1,2 @@
-# Help_Desk-System
+# Help_Desk_System
 Capstone Project
